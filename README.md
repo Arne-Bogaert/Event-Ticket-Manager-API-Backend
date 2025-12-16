@@ -1,8 +1,7 @@
-# Examenopdracht Web Services
+# Event-Ticket Manager API
 
-- Student: Arne Bogaert
-- Studentennummer: 230912176089
-- E-mailadres: <arne.bogaert@student.hogent.be>
+- Made by Arne Bogaert
+- Front end in development
 
 ## Requirements
 
